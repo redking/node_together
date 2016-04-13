@@ -4,5 +4,8 @@
 	var express = require('express');
 	var app = express();
 
+	var rules = require('./app/index.js');
+	app.use(rules);
+
 	app.listen(port, host);
-	console.log("Ca marche, go visit the server")
+	console.log("Ca marche, go visit the server");
