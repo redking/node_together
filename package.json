@@ -1,7 +1,7 @@
 {
   "name": "node_together",
   "version": "1.0.0",
-  "description": "Node Together event in Paris.",
+  "description": "Node Together event in Paris. App avec des chats et des conseils motivants.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
