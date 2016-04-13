@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leroncier/node_together/issues"
   },
-  "homepage": "https://github.com/leroncier/node_together#readme"
+  "homepage": "https://github.com/leroncier/node_together#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
