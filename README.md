@@ -1,2 +1,2 @@
 # node_together
-Node Together event in Paris.
+App avec des chats et des conseils motivants.
