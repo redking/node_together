@@ -6,8 +6,8 @@ var exphbs  = require('express-handlebars');
 // setting up a view engine and configure it, like a very small package
 app.engine('handlebars', exphbs({
 	defaultLayout: 'main',
-	layOutsDir: "./app/views/layouts"
-	 }));
+	layoutsDir: "./app/views/layouts"
+}));
 
 app.set('views', './app/views');
 app.set('view engine', 'handlebars');
